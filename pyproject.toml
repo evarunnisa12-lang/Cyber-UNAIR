@@ -1,0 +1,9 @@
+
+[project]
+name = "cyber-campus"
+version = "0.1.0"
+description = "Cyber Campus Program Studi Fisika"
+requires-python = ">=3.12"
+dependencies = [
+    "flet",
+]
